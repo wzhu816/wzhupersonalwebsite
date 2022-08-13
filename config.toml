@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://papaya-marigold-9417af.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Wenjia Zhu"
