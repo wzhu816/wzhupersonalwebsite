@@ -90,6 +90,10 @@ enableEmoji = true
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://https://github.com/wzhu816/"
+  [[params.social]]
+      icon      = "linkedin"
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/wenjia-zhu-45681456/"
   #[[params.social]]
       #icon      = "facebook-square" # icon name without the 'fa-'
       #icon_pack = "fab"
