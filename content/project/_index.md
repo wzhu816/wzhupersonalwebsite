@@ -17,7 +17,7 @@ show_post_thumbnail: true
 sidebar:
   author: Wenjia Zhu
   description: "Please check out some projects I've completed. Hope you like them!\n"
-  show_sidebar_adunit: false
+  show_sidebar_adunit: true
   text_link_label: ""
   text_link_url: ""
   title: A List of My Projects
