@@ -29,9 +29,9 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  orgName = "Wenjia ZHU"
+  orgLocal = "USA"
+  description = "A personal website to document work projects and blogs."
   favicon = "/img/favorite-place-pngrepo-com.png"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]

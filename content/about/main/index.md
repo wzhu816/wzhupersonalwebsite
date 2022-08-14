@@ -13,7 +13,6 @@ intro: |
   In my spare time, I enjoy self-learning in data techniques, and have been a loyal member of online learning platforms such as Coursera and Udemy. The main reason why I wanted to create a personal website is to start documenting some cool projects I’ve worked with and keep tracks of my new learning experience!
 
 
-show_outro: false
 
 ---
 
