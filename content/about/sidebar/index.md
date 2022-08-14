@@ -8,11 +8,11 @@ audio_link_label: "" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name:Travel
-  [//]: #url: https://en.wikipedia.org/wiki/Paris
+  
 - name: Reading
-  [//]: #url: https://en.wikipedia.org/wiki/Pastry
+  
 - name: Daydreaming (haha)
-  [//]: #url: https://en.wikipedia.org/wiki/People
+ 
 ---
 
 ** index doesn't contain a body, just front matter above.
