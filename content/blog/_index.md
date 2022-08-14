@@ -16,12 +16,10 @@ show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: The R Markdown Team @RStudio
-  description: "This is a fully featured blog that supports categories,\ntags, series,
-    and pagination. Even this sidebar offers \na ton of customizations.\n\nCheck out
-    the _index.md file in the /blog folder \nto edit this content. \n"
+  author: Wenjia Zhu
+  description: "HEY!\n\n It's so nice to see you here, hope you enjoy the reading and let me know if you'd like to connect on LinkedIn!"
   show_sidebar_adunit: true
-  title: A Sidebar for Your Thoughts
+  title: Greetings
 thumbnail_left: true
 title: RECENT BLOGS
 ---
