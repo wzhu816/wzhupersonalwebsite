@@ -5,10 +5,7 @@ role: "A Consultant, A Dreamer"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 
-Interests # bookmarks, elsewhere, etc.
-Travel
-Reading
-Daydreaming lol
+
 
 ---
 
