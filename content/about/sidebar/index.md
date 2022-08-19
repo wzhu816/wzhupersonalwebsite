@@ -2,7 +2,7 @@
 ## Configure sidebar content in narrow column
 author: "Wenjia Zhu"
 role: "A Consultant, A Dreamer"
-avatar_shape: rounded # circle, square, rounded, leave blank to exclude
+avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 
 
