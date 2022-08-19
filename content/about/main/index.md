@@ -11,8 +11,7 @@ intro: |
   I’m a consultant working in the energy field for nearly a decade since I graduated from the Environmental Management program at Duke University. I’ve worked with utility clients throughout the states to help them quantify energy-saving opportunities, design demand-side management (DSM) programs, and evaluate the effectiveness of these programs. The energy field is changing rapidly these years with emerging technologies along with massive customer data available. My goal is to help bring these cutting-edge measures to customers through utility program channels. 
 
   In my spare time, I enjoy self-learning in data techniques and have been a loyal member of online learning platforms such as Coursera and Udemy. The main reason that I wanted to create a personal website is to start documenting some cool projects I’ve worked with and keep track of my new learning experience!
-show_outro: true
-outro: |
+
 
 
 ---
