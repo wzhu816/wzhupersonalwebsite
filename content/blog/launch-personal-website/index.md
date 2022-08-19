@@ -98,7 +98,7 @@ baseURL = "https://hugo-apero-docs.netlify.app/"
 
 ---
 
-I will stop here to make this blog concise and more reader-friendly. Hope you enjoy reading so far! This is just the start of your journey to create a website belongs to **YOU**. Don't stop here, and keep tailoring the site for your specific needs! 🎉
+I will stop here to make this blog concise and more reader-friendly. Hope you enjoy reading so far! This is just the start of your journey to create a website belongs to **YOU**. Don't stop right here, and keep tailoring the site for your specific needs! 🎉 If you're interested in the section configuration and page configuration of this Hugo theme, please visit its official website: https://hugo-apero-docs.netlify.app/about/
 
 
 

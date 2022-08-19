@@ -33,7 +33,7 @@ enableEmoji = true
   orgLocal = "USA"
   description = "A personal website to document work projects and blogs."
   favicon = "/img/favorite-place-pngrepo-com.png"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/star-pngrepo-com.png"
   mainSections = ["blog", "project"]
   navallcaps = true
   # show/hide social icons in site header & footer
