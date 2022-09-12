@@ -33,7 +33,7 @@ FV = PV * (1 + r)^m
 $$
 
 ---
-The courses provides some real-world examples in assignments to help learners better understand the concept. I attach some good examples as follows:
+The courses provide some real-world examples in assignments to help learners better understand the concepts. I attach some good examples as follows:
 
 **Q1. Carlos goes to the bank to take out a personal loan. The stated annual interest rate is 8%, but interest is compounded quarterly and he will make monthly payments. What is the EAR?** 
 
@@ -119,12 +119,12 @@ Answer: 16200
 ---
 ## 2. Bonds 💵
 
-Bonds are technically a form of "IOU" (I Owe You), a loan from you to a company or government under a contract of promising to repay the money with interest by a certain date. There are two general types of bonds, a pure discount (or zero-coupon) bonds and coupon bonds. 
+Bonds are technically a form of "IOU" (I Owe You), a loan from you to a company or government under a contract of promising to repay the money with interest by a certain date. There are two general types of bonds, pure discount (or zero-coupon) bonds and coupon bonds. 
 
 + **Zero coupon bonds** are bonds that do not pay interest during the life of the bonds, and the investors receive the face value of the bonds when they mature.
 + **Coupon bonds** are type of bonds that include attached coupons and pay periodic interest payments (typically semi-annual payments) during their lifetime and their par values at maturity. 
 
-Yield to maturity (YTM) is the total return anticipated on a bond if held until it matures[^ytm].
+Yield to maturity (YTM) is the total return anticipated on a bond if is held until it matures[^ytm].
 
 **Q6. What is the yield to maturity (YTM) of a zero coupon bond with a face value of $1,000, current price of $800 and maturity of 7 years? Recall that the compounding interval is 6 months and the YTM, like all interest rates, is reported on an annualized basis.** (Allow two decimals in the percentage but do not enter the % sign.)
 
@@ -165,7 +165,7 @@ Answer: 2043
 <br>
 
 ### Risks of Bonds
-The uncertainty concerning bond values/prices due to interest rates fluctuation is known as the **interest rate risk** of bonds. There are two types of interest rate risk: **price risk** and **coupon reinvestment risk**, which are the main risks tied to government bonds. For a zero-coupon bond, the price of the bond in any period before the maturity date is unknown and determined by the interest rate. For a coupon bond, the value of the coupons received periodically are also affected by the interest rate. If the interest rate at a given period goes down, the price of the bond at that period goes up but the values carried forward from the received coupons declines. Corporate bonds almost always pay coupons. Like government bonds, they are subject to interest rate risk, but they are also subject to **default risk**. The default risk is the chance of not getting paid. Rating agencies such as Moody's, S&P, etc rate corporate bonds in the U.S. Most "bonds" are contracts/loans issued by a bank.
+The uncertainty concerning bond values/prices due to interest rates fluctuation is known as the **interest rate risk** of bonds. There are two types of interest rate risks: **price risk** and **coupon reinvestment risk**, which are the main risks tied to government bonds. For a zero-coupon bond, the bond price in any period before the maturity date is unknown and determined by the interest rate. For a coupon bond, the value of the coupons received periodically are also affected by the interest rate. If the interest rate at a given period goes down, the price of the bond at that period goes up but the values carried forward from the received coupons declines. Corporate bonds almost always pay coupons. Like government bonds, they are subject to interest rate risks, but they are also subject to **default risk**. The default risk is the chance of not getting paid. Rating agencies such as Moody's, S&P, etc rate corporate bonds in the U.S. Most "bonds" are contracts/loans issued by a bank.
 
 
 
