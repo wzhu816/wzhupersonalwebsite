@@ -38,9 +38,8 @@ If you're seeking helps in streamlining your workflow, feel free to reach out an
 ---
 ## Perform Review
 
-Quality Control (QC) is a very important step to maintain the approach consistency and results accuracy. The QC scripts can be developed to gather all the reporting files and red-flag those suspicious results. The core principle is to identify the appropriate the metrics that can be used to screen out any outliers or discrepancies. 
+Quality Control (QC) is a very important step to maintain the approach consistency and results accuracy. The QC scripts can be developed to gather all the reporting files and red-flag those suspicious results. The core principle is to identify the appropriate metrics that can be used to screen out any outliers or discrepancies. 
 
 I have extensive experience in selecting the correct set of metrics and designing reliable QC files. Please let me know if there's anything I can help with for your business!
 
----
 
