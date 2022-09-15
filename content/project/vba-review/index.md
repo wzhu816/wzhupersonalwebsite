@@ -32,7 +32,7 @@ With limitation of human interference in modeling and reporting phases, the chan
 
 The calculations and modeling can be built from **VBA** and shared from projects to projects, people to people by modules. This makes knowledge more transparent and transferable.
 
-If you're seeking helps in streamlining your workflow, feel free to reach out and I'd be more than happy to help with my expertise!
+If you're seeking helps in streamlining your workflow, feel free to [reach out](https://www.linkedin.com/in/wenjia-zhu-45681456/) and I'd be more than happy to help with my expertise!
 
 
 ---
