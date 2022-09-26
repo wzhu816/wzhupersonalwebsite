@@ -13,4 +13,4 @@ I'm a Hugo theme you'll want to hang out with. :fr:
 The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
 -->
 
-Welcome to my screte garden! Hope you enjoy and grow with me! 🫶
+Welcome to my secret garden! Hope you enjoy and grow with me! ❤️
