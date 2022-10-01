@@ -16,7 +16,7 @@ tags:
 title: Excel + Python = ∞ 
 ---
 
-Recently I've been reading this book ["Python for Excel: A modern Environment for Automation and Data Analysis (2021)"](https://www.oreilly.com/library/view/python-for-excel/9781492080992/)[^summary], and was impressed by the easiness of reader and writer packages available in python! This post borrows the content from the Chapter 8 of the book, Excel File Manipulation with Reader and Writer Packages, where ***OpenPyXL*** and ***XlsxWriter*** pacakges will be introduced. Both packages cover similar functionality of writing *xlsx* or *xlsm* files, but each package has its own few features that are unique to the other. 
+Recently I've been reading this book ["Python for Excel: A modern Environment for Automation and Data Analysis (2021)"](https://www.oreilly.com/library/view/python-for-excel/9781492080992/)[^summary], and was impressed by the easiness of reader and writer packages available in python! This post borrows the content from the Chapter 8 of this book, Excel File Manipulation with Reader and Writer Packages, where ***OpenPyXL*** and ***XlsxWriter*** packages will be introduced. Both packages cover similar functionality of writing *xlsx* or *xlsm* files, but each package has its own few features that are unique to the other. 
 
 🗒️**OpenPyXL** can read, write, and edit, as well as make it easier to produce Excel files with VBA macros.
 
@@ -177,7 +177,7 @@ This case study resembles a real-life application of processing monthly Excel fi
 
 ##### Each of the Excel files has up to 10,000 trasanction records, and our goal is to produce a report that shows the total sales per store and month.
 
-As a preparation for the reporting, we'll first need to process the original datasets and transform them into a complete dataset with totals sales from each store by month. We can then write them out to an Excel reporting file, and create formatted table and figure accordingly by using either OpenPyXL or XlsxWriter as previously described. The attached graph below is the snapshot of how it will look like in the final Excel reporting file.
+As a preparation for the reporting, we'll first need to process the original datasets and transform them into a complete dataset with total sales from each store by month. We can then write them out to an Excel reporting file, and create formatted table and figure accordingly by using either OpenPyXL or XlsxWriter as previously described. The attached graph below is the snapshot of how it will look like in the final Excel reporting file.
 
 ![screenshot](screenshot.png)
 

@@ -20,7 +20,7 @@ layout: single-sidebar
 
 ---
 
-My previous project introduces how to create reproducible Word document and Excel file with Stata. This project focuses on processing raw Excel files and creating an Excel reporting file with python pacakges. Python has many writer packages, but I'll use *OpenPyXL* and *XlsxWriter*. If you're not familiar with these two packages, plese feel free to check out the introduction [blog](/blog/excel-reporting-writer/) I wrote.
+My previous project introduces how to create reproducible Word document and Excel file with Stata. This project focuses on processing raw Excel files and creating an Excel reporting file with python packages. Python has many writer packages, but I'll use *OpenPyXL* and *XlsxWriter*. If you're not familiar with these two packages, plese feel free to check out the introduction [blog](/blog/excel-reporting-writer/) I wrote.
 
 ## Original Data
 You can find the original datasets in this github [repository](https://github.com/wzhu816/python-for-excel-practice/tree/main/Excel%20File%20Manipulation%20Case). In the `/sales_data` folder, you will find Excel files with fake sales trasactions from a telecommunication provider selling plans (Bronze, Silver, Gold) in a few stores throughout the United States. For every month, there are two files, one in the `new` subfolder for new contracts and one in the `existing` subfolder for existing customers. Note the difference in the formats for the new files and existing files: the new files are delivered as `xlsx` files, while the existing files are with the older `xls` format extension. Each of the Excel files has up to 10,000 transaction records.
@@ -94,9 +94,9 @@ with pd.ExcelWriter(Path(this_dir)/"sales_report_xlsxwriter.xlsx",
                     startrow=startrow, startcol=startcol)
 ```
 
-You can use your selected package to add DataFrame to the Excel file and format it into a table. And you can also create a barchart to show how the transactions from these stores compare to each other month-by-month. The final product will look like this:
+You can use your selected package to add DataFrame to the Excel file and format it into a table. And you can also create a barchart to show how the transactions from these stores compare to each other month-by-month. The final product looks like this:
 
 **Figure 3 - Snapshot of final reporting file** 
 ![screenshow](screenshot.png)
 
-This is a case study provided in the "Chapter 8 Excel File Manipulation with Reader and Writer Packages" from ths book ["Python for Excel: A modern Environment for Automation and Data Analysis (2021)"](https://www.oreilly.com/library/view/python-for-excel/9781492080992/). Provided is the [link](https://github.com/fzumstein/python-for-excel) to the companion repo of this book on github <i class="fab fa-github pr-1 fa-fw"></i>.
+This is a case study provided in the "Chapter 8 Excel File Manipulation with Reader and Writer Packages" from this book ["Python for Excel: A modern Environment for Automation and Data Analysis (2021)"](https://www.oreilly.com/library/view/python-for-excel/9781492080992/). Provided is the [link](https://github.com/fzumstein/python-for-excel) to the companion repo of this book on github <i class="fab fa-github pr-1 fa-fw"></i>.
