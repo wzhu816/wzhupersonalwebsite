@@ -1,7 +1,7 @@
 ---
 title: "Automatic Reporting from Excel and Python"
 subtitle: "Case Study with a Sales Report"
-excerpt: "Stata enables us to create complete Word, Excel, PDF and HTML documents that not only include formatted text but also summary statistics, regression results, and graphs."
+excerpt: "Demonstrate how to use Python packages (such as OpenPyXL and  XlsxWriter) to create reporting file from fictitious monthly sales data in Excel."
 date: 2022-10-01
 author: "Wenjia Zhu"
 featured: true
