@@ -8,9 +8,11 @@ featured: true
 draft: false
 tags:
 - Python
+- Excel
 - Pandas
 - OpenPyXL
 - XlsxWriter
+- Automation
 categories:
 - Reproducible Deliverables
 - Python

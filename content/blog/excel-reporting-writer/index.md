@@ -10,9 +10,12 @@ excerpt: This blog demonstrates the excel file manipulation with writer packages
 layout: single-sidebar
 subtitle: Automate excel reporting by python packages
 tags:
-- TVM
-- Stocks
-- Bonds
+- Python
+- Excel
+- OpenPyXL
+- XlsxWriter
+- Automation
+- Data Analysis
 title: Excel + Python = ∞ 
 ---
 
