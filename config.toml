@@ -32,8 +32,8 @@ enableEmoji = true
   orgName = "Wenjia ZHU"
   orgLocal = "USA"
   description = "A personal website to document work projects and blogs."
-  favicon = "/img/favorite-place-pngrepo-com.png"
-  logo = "/img/star.png"
+  favicon = "/img/webicon.png"
+  logo = "/img/sun.png"
   mainSections = ["blog", "project"]
   navallcaps = true
   # show/hide social icons in site header & footer
