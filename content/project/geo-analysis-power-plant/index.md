@@ -32,7 +32,7 @@ The dataset includes all the operable electric generating plants with a combined
 
 
 
-
+---
 There are five major types of renewable energy, which are [^renewable]:
 
 🌞 Solar energy from the sun, 
@@ -57,7 +57,7 @@ By examining the locations of these renewable energy plants, we can gain insight
 ![Figure 2 – Renewable energy power plants in the U.S. Domestic](figure2.png)
 
 
-
+---
 The color scale in the *Figure 3* represents the percentages of installed MW from renewable sources in the U.S. Domestic. It is important to note that this data only reflects the installed capacity of renewable energy resources and does not necessarily indicate the actual generation of renewable electricity. This is because some power plants might be on standby, or are temporarily or permanently out of service, which would impact the actual share of renewables in the electricity generation. 
 
 
