@@ -2,10 +2,8 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: "Welcome to my personal website where I document fun work projects and share my unstoppable journeys to grow data skills! 
-By leveraging the power of big data, we can consume energy smarter and live a more sustainable lifestyle. 
-Come and join me!
-Make a change TODAY!"
+description: "Welcome to my personal website! Here, I document my exciting work projects and share my unstoppable journeys towards mastering data skills. 
+With the power of big data, we have the ability to consume energy smarter and live more sustainable lifestyles. Join me as I explore the potential of data to make a positive impact on our world. Together, let's make a change **TODAY**!"
 
 image_left: true
 images:

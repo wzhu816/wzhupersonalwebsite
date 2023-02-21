@@ -17,7 +17,7 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Wenjia Zhu
-  description: "HEY!\n\n It's so nice to see you here, hope you enjoy the readings and let me know if you'd like to connect on LinkedIn!"
+  description: "HEY!\n\n It's so nice to see you here, and hope you enjoy the readings. let me know if you'd like to connect on [LinkedIn](https://www.linkedin.com/in/wenjia-zhu-45681456/)!"
   show_sidebar_adunit: true
   title: Greetings
 thumbnail_left: true
